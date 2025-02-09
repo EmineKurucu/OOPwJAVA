@@ -49,7 +49,6 @@ public class Methodlar{
             toplam += num;
         }
         return toplam;
-
     }
 
 }
